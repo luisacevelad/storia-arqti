@@ -34,3 +34,9 @@ Las consultas de verificación están en `queries/`.
 2. Usa los IDs ya cargados: capacidades `C-xx`, requerimientos `RF-xx`. Para repartir los requerimientos entre aplicaciones usa `requerimiento_componente`.
 3. Cada BAC se muestra con una vista llamada `bacXX_nombre`, igual que las vistas `bac69a` y `bac69b` del curso.
 4. Antes de subir, recrea la base desde cero y verifica que todos los scripts corran sin errores.
+
+## Modelo de datos
+
+En `docs/` están los modelos de MySQL Workbench sacados por ingeniería inversa:
+- `modelo-er-ordenado.mwb`: esquema del curso (33 tablas), ordenado por zonas.
+- `modelo-er-final.mwb`: base completa (40 tablas y 13 vistas). Las 7 tablas que agregó el grupo están en rojo.
