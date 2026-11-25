@@ -37,6 +37,9 @@ Las consultas de verificación están en `queries/`.
 
 ## Modelo de datos
 
-En `docs/` están los modelos de MySQL Workbench sacados por ingeniería inversa:
-- `modelo-er-ordenado.mwb`: esquema del curso (33 tablas), ordenado por zonas.
-- `modelo-er-final.mwb`: base completa (40 tablas y 13 vistas). Las 7 tablas que agregó el grupo están en rojo.
+En `docs/` están los modelos de MySQL Workbench sacados por ingeniería inversa, cada uno con su imagen:
+
+| Archivo | Contenido |
+|---|---|
+| `modelo-er-original.mwb` / `.png` | Esquema del curso (33 tablas), ordenado por zonas |
+| `modelo-er-final.mwb` / `.png` | Base completa (40 tablas y 13 vistas). Las 7 tablas que agregó el grupo están en rojo |
