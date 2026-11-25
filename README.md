@@ -21,7 +21,12 @@ Se ejecutan en orden sobre una base vacía, que es como los corren los evaluador
 | `01_esquema.sql` | Esquema del curso, sin cambios |
 | `02_ajustes_esquema.sql` | Tabla `requerimiento_componente` (requerimiento funcional ↔ aplicación) |
 | `03_capacidades.sql` | 60 capacidades (`C-01` a `C-60`) |
+| `03b_conceptos.sql` | 24 conceptos del BAC-10 (`CO-01` a `CO-24`) |
 | `04_bac69_requerimientos.sql` | BAC-69: `RF-01` a `RF-57` y `RNF-01` a `RNF-12` |
+| `05_aplicaciones_informacion.sql` | Integrante 2: BAC-62, BAC-67 y tableros (11c a 11f) |
+| `06_esb_infraestructura.sql` | Integrante 3: ESB, ETL y BAC-68 (11g y 11h) |
+
+Las consultas de verificación están en `queries/`.
 
 ## Para agregar tu parte
 
